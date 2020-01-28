@@ -1,0 +1,13 @@
+{
+  "name": "wiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -e html,js,css /home/jochi/Escritorio/plataforma_5/bootcamp/wiki/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
