@@ -1,0 +1,14 @@
+ id |                title                |              urltitle               |        content        | status |         createdAt          |         updatedAt          
+----+-------------------------------------+-------------------------------------+-----------------------+--------+----------------------------+----------------------------
+  1 | caca                                | caca                                | fmpgnfdpgsdpfosdgpfdf | open   | 2020-01-29 10:49:42.016-03 | 2020-01-29 10:49:42.016-03
+  2 | caca                                | caca                                | fmpgnfdpgsdpfosdgpfdf | open   | 2020-01-29 10:49:48.415-03 | 2020-01-29 10:49:48.415-03
+  3 | caca                                | caca                                | fmpgnfdpgsdpfosdgpfdf | open   | 2020-01-29 10:51:32.756-03 | 2020-01-29 10:51:32.756-03
+  4 | ASDASDASD                           | ASDASDASD                           | ASDASDASDASDASDSAD    | open   | 2020-01-29 12:48:53.071-03 | 2020-01-29 12:48:53.071-03
+  5 | CACACA                              | random                              | asdsfdgfhjh           | open   | 2020-01-29 14:46:26.124-03 | 2020-01-29 14:46:26.124-03
+  6 | Caca                                | Caca                                | ASDASDASDASD          | open   | 2020-01-29 14:52:12.869-03 | 2020-01-29 14:52:12.869-03
+  7 | dsad                                | dsad                                | ASDASDASD             | open   | 2020-01-29 14:53:27.983-03 | 2020-01-29 14:53:27.983-03
+  8 | Esto es un titulo largo con espacio | Esto es un titulo largo con espacio | ASDASDASDASDASD       | open   | 2020-01-29 14:54:11.671-03 | 2020-01-29 14:54:11.671-03
+  9 | Esto es un titulo largo con espacio | Esto es un titulo largo con espacio | asdasdasdasd          | open   | 2020-01-29 14:54:53.73-03  | 2020-01-29 14:54:53.73-03
+ 10 | Esto es un titulo largo con espacio | Esto_es_un_titulo_largo_con_espacio | ASDASDASDASDASD       | open   | 2020-01-29 14:57:17.435-03 | 2020-01-29 14:57:17.435-03
+(10 rows)
+
